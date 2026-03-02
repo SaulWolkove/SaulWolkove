@@ -5,7 +5,6 @@ Building real-time systems, scalable cloud architectures, and AI-powered applica
 
 📍 Kingston / Toronto, Canada  
 🎓 Queen’s University — B.Comp (Computer Science, Data Analytics Option)  
-📈 GPA: 3.88/4.3 — Dean’s Honour List (2022–Present)
 
 ---
 
@@ -42,7 +41,7 @@ I’m particularly interested in:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Check out the below!
 
 ### 🔎 Peeker AI — Client-Side AI Content & Image Detection (Chrome Extension)
 
@@ -60,39 +59,6 @@ I’m particularly interested in:
 - Integrated OpenAI GPT-3.5 via a Django backend.
 - Automated fine-tuning data generation with MySQL.
 - Improved model evaluation accuracy by 200%.
-
----
-
-## 🏗 Technical Focus
-
-### Backend & Systems
-Java · Python · C · C# · Node.js · NestJS · Django  
-REST APIs · WebSockets · Multi-tenant architectures
-
-### Cloud & DevOps
-AWS (EC2, Lambda, API Gateway, DynamoDB, S3)  
-Docker · GitHub Actions · CI/CD · Infrastructure automation
-
-### Data & AI
-LangChain · Pandas · NumPy · Scikit-learn  
-ONNX · Transformers.js · LLM integration  
-Large-scale data processing & analytics
-
-### Frontend & Mobile
-React · Next.js · Angular  
-Flutter (Android & iOS publishing experience)
-
----
-
-## 📚 Education
-
-**Queen’s University**  
-Bachelor of Computing — Computer Science (Data Analytics Option)  
-Relevant Coursework:
-- Data Structures & Algorithms  
-- Operating Systems & Architecture  
-- Software Design & Specifications  
-- Data Analysis  
 
 ---
 
